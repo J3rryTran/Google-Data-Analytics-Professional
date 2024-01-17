@@ -1,1 +1,15 @@
-Test
+# Coursera Google Data Analytics Professional Certificate
+
+- [x] **Foundations**  
+Learning a roles and reponsibilities of data analyst, Spreadsheet basics, Database, Data visualization basics.  
+Skill: Thinking analytically, Applying a data analyst tool.  
+
+- [x] **Ask**   
+Learning a Spreadsheet formulas and functions, Dashboard basics, and Data reporting basics.  
+Skill: Summarizing data, Managing, and Problem-solving and conflict-resolution.  
+
+- [x] **Prepare**   
+Learning a data generated, Features of different data types, fields, and values, Database structures, The function of metadata in data analytics, and SQL function.   
+Skill: Accessing data, Writing simple queries, and Organizing and protecting data.  
+
+- [x] **** 
