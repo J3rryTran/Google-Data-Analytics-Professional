@@ -1,5 +1,6 @@
-# Coursera Google Data Analytics Professional Certificate
+# Coursera Google Data Analytics Professional Certificate  
 
+## Content
 - [x] **Foundations**  
 Learning a roles and reponsibilities of data analyst, Spreadsheet basics, Database, Data visualization basics.  
 Skill: Thinking analytically, Applying a data analyst tool.  
@@ -12,4 +13,23 @@ Skill: Summarizing data, Managing, and Problem-solving and conflict-resolution.
 Learning a data generated, Features of different data types, fields, and values, Database structures, The function of metadata in data analytics, and SQL function.   
 Skill: Accessing data, Writing simple queries, and Organizing and protecting data.  
 
-- [x] **** 
+- [x] ****   
+
+
+
+
+
+
+
+# The six data analysis phases  
+1. Ask  
+2. Prepare  
+3. Process
+4. Analyze  
+5. Share  
+6. Act  
+
+
+
+# The Certificate  
+![Alt text]()
