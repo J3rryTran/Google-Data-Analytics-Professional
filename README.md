@@ -21,15 +21,18 @@ Skill: Accessing data, Writing simple queries, and Organizing and protecting dat
 
 
 
-# The six data analysis phases  
+## Summarise  
+
+### The six data analysis phases  
 1. Ask  
 2. Prepare  
 3. Process
 4. Analyze  
 5. Share  
-6. Act  
+6. Act   
 
-
+### SMART
+1. 
 
 # The Certificate  
 ![Alt text]()
