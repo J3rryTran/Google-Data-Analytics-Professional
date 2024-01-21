@@ -9,14 +9,23 @@ Skill: Thinking analytically, Applying a data analyst tool.
 Learning a Spreadsheet formulas and functions, Dashboard basics, and Data reporting basics.  
 Skill: Summarizing data, Managing, and Problem-solving and conflict-resolution.  
 
-- [x] **Prepare**   
+- [] **Prepare**   
 Learning a data generated, Features of different data types, fields, and values, Database structures, The function of metadata in data analytics, and SQL function.   
 Skill: Accessing data, Writing simple queries, and Organizing and protecting data.  
 
-- [x] ****   
+- [] **Process Data from Dirty to Clean**   
 
 
+- [] **Analyze Data to Answer Question**
 
+
+- [] **Share Data Through the Art of Visualization**
+
+
+- [] ** Data Analysis with R programing**
+
+
+- [] ** Google Data Analytics Capstone: Complete a Case Study**
 
 
 
@@ -31,8 +40,7 @@ Skill: Accessing data, Writing simple queries, and Organizing and protecting dat
 5. Share  
 6. Act   
 
-### SMART
-1. 
+
 
 # The Certificate  
 ![Alt text]()
