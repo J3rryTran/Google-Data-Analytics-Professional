@@ -1,4 +1,5 @@
 # Foundations Data, Data, Everywhere
+
 ## Content Course  
 1. Introducing data analytics and analytical thinking  
 Data helps us make decisions in both everyday life and in business. In this part of the course, you’ll learn how data analysts use a variety of tools and skills to inform those decisions.   
@@ -9,4 +10,4 @@ Spreadsheets, query languages, and data visualization tools are all a big part o
 4. Become a fair and impactful data professional   
 In this part of the course, you’ll examine different types of businesses and the jobs and tasks that analysts do for them. You’ll also learn how a Google Data Analytics Certificate will help you meet many of the requirements for an analyst position with these organizations.   
 
-![Alt text]()
+![Alt text](https://github.com/J3rryTran/Google-Data-Analytics-Professional/blob/main/C1-Foundations%20Data%2C%20Data%2C%20Everywhere/c1.png)
