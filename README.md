@@ -1,6 +1,6 @@
 # Google Data Analytics Professional   
 
-This course will be combine include all content of Data Analytics by Google.    
+This course will be combine include all content of relating on Data Analytics by Google.    
 
 
 ## Content
@@ -34,6 +34,9 @@ Skill: Visualize, understand, and make decisions with data; essential to data st
 - [] **Google Data Analytics Capstone: Complete a Case Study**      
 
 
+# Advance Google Data Analytics Professional   
+## Content  
+
 - [] **Introduction to data science concepts**      
 
 
@@ -51,12 +54,12 @@ Skill: Visualize, understand, and make decisions with data; essential to data st
 ## Summarise  
 
 ### The six data analysis phases  
-1. Ask  
-2. Prepare  
-3. Process
-4. Analyze  
-5. Share  
-6. Act   
+1. Ask: Business challenge, objective, or question --> Questions and define the problem.   
+2. Prepare: Data generation, collection, storage, and data management --> Data by collecting and storing the information.  
+3. Process: Data cleaning and data integrity --> Data by cleaning and checking the information.
+4. Analyze: Data exploration, visualization, and analysis --> Data to find patterns, relationships, and trends. 
+5. Share: Communicating and interpreting results --> Data with your audience.   
+6. Act: Putting  insights to work to solve the problem --> The data and use the analysis results.   
 
 
 
