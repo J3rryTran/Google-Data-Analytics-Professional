@@ -1,4 +1,4 @@
-# Ask Questions to Make Data-Driven Decisions  
+# C2 - Ask Questions to Make Data-Driven Decisions  
 
 ## Content Course  
 1. Ask effective questions  
@@ -13,4 +13,4 @@ Spreadsheets are a key data analytics tool. Here you’ll learn both why and how
 4. Always remember the stakeholder   
 Successful data analysts balance the needs and expectations of their team and the stakeholders they support. In this part of the course, you’ll learn strategies for managing stakeholder expectations while establishing clear communication with your team.   
 
-![Alt text]()
+![Alt text](https://github.com/J3rryTran/Google-Data-Analytics-Professional/blob/main/C2-Ask%20Questions%20to%20Make%20Data-Driven%20Decisions/c2.png)

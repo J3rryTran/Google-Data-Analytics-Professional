@@ -1,4 +1,4 @@
-# Analyze Data to Answer Questions
+# C5 - Analyze Data to Answer Questions
 
 ## Content
 
@@ -11,4 +11,4 @@ As part of your analysis, you’ll often have to combine data in order to gain i
 4. Perform data calculations
 Calculations are a common task for data analysts. In this part of the course, you’ll explore formulas, functions, and pivot tables in spreadsheets and queries in SQL, all of which will help with your calculations.
 
-![Alt text]()
+![Alt text](https://github.com/J3rryTran/Google-Data-Analytics-Professional/blob/main/C5-Analyze%20Data%20to%20Answer%20Questions/C5.png)

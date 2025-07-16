@@ -1,4 +1,4 @@
-# Prepare Data for Exploration
+# C3 - Prepare Data for Exploration
 
 ## Content Course  
 1. Data types and structures   
@@ -13,4 +13,4 @@ When you analyze large datasets, you’ll access much of the data from a databas
 4. Organize and protect data   
 Good organizational skills are a big part of most types of work, especially data analytics. In this part of the course, you will learn best practices for organizing data and keeping it secure. You’ll also understand how analysts use file naming conventions to help them keep their work organized.   
 
-![Alt text]()
+![Alt text](https://github.com/J3rryTran/Google-Data-Analytics-Professional/blob/main/C3-Prepare%20Data%20for%20Exploration/C3.png)

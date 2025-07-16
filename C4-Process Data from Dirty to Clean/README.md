@@ -1,4 +1,4 @@
-# Process Data from Dirty to Clean   
+# C4 - Process Data from Dirty to Clean   
 
 1. The importance of integrity
 Data integrity is critical to successful analysis. In this part of the course, you’ll explore methods and steps that analysts take to check their data for integrity. This includes knowing what to do when you don’t have enough data. You’ll also learn about random samples and understand how to avoid sampling bias. All of these methods will also help you ensure your analysis is successful.   
@@ -15,4 +15,4 @@ When you clean data, you make changes to the original dataset. It’s important 
 5. Add data to your resume
 Creating an effective resume will help you in your data analytics career. In this part of the course, you’ll learn all about the job application process. Your focus will be on building a resume that highlights your strengths and relevant experience.   
 
-![Alt text]()
+![Alt text](https://github.com/J3rryTran/Google-Data-Analytics-Professional/blob/main/C4-Process%20Data%20from%20Dirty%20to%20Clean/C4.png)

@@ -1,4 +1,4 @@
-# Foundations Data, Data, Everywhere
+# C1 - Foundations Data, Data, Everywhere
 
 ## Content Course  
 1. Introducing data analytics and analytical thinking  
