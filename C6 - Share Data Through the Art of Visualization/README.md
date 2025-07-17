@@ -11,4 +11,4 @@ Connecting your objective with your data through insights is essential to data s
 In this part of the course, you’ll discover how to give an effective presentation about your data analysis. This final module teaches you to construct insightful presentations that resonate with your audience. You'll learn to anticipate and address potential questions and to articulate the limitations of your data, ensuring a robust and credible narrative for your stakeholders.
 
 
-![Alt text]()
+![Alt text](https://github.com/J3rryTran/Google-Data-Analytics-Professional/blob/main/C6%20-%20Share%20Data%20Through%20the%20Art%20of%20Visualization/C6.png)
