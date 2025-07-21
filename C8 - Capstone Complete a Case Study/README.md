@@ -79,4 +79,7 @@ The guide recommends using **Interview Warmup**, a tool designed to help you pra
 - **C**reate: Include any **context** the gen AI tool might need to give you what you want.
 - **R**eally: Add **references** the gen AI tool can use to inform its output.
 - **E**xcellent: Next, **evaluate** the output to identify opportunities for improvement. 
-- **I**nputs: Then, **iterate** on your initial prompt to attain those improvements.
+- **I**nputs: Then, **iterate** on your initial prompt to attain those improvements.   
+
+
+![Alt text]()

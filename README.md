@@ -32,33 +32,53 @@ Skill: Visualize, understand, and make decisions with data; essential to data st
 Understanding the essential of R, and implement analysis to RStudio.   
 Skill: Working with data in R, visualizations, aesthetics, and annotations.   
 
-- [] **8. Google Data Analytics Capstone: Complete a Case Study**      
+- [x] **8. Google Data Analytics Capstone: Complete a Case Study**      
+Complete case study, which will help prepare you for your data analytics job hunt like assess analytical skills, choose an analytics-based scenario, and materials to build a portfolio online.   
+
+
+# Google Data Analysis on Google Cloud
+## Content
+
+- [] **9. Introduction to CLoud Computing**   
+
+
+- [] **10. Data Analysis in the Cloud**    
+
+
+- [] **11. The Data Lifecycle**    
+
+
+- [] **12. The role of a cloud data analyst**    
+
+
+- [] 
 
 
 # Advance Google Data Analytics Professional   
 ## Content  
 
-- [] **9. Introduction to data science concepts**      
+- [x] **13. Introduction to data science concepts**      
 
 
-- [] **10. Get Started with Python**       
+- [] **14. Get Started with Python**       
 
 
-- [] **11. Go Beyond the Numbers: Translate Data into Insights**         
+- [] **15. Go Beyond the Numbers: Translate Data into Insights**         
 
 
-- [] **12. The Power of Statistics**     
-
-
-
-- [] **13. Regression Analysis: Simplify Complex Data Relationships**    
+- [] **16. The Power of Statistics**     
 
 
 
-- [] **14. The Nuts and Bolts of Machine Learning**     
+- [] **17. Regression Analysis: Simplify Complex Data Relationships**    
 
 
-- [] **15. Google Advanced Data Analytics Capstone**     
+
+- [] **18. The Nuts and Bolts of Machine Learning**     
+
+
+- [] **19. Google Advanced Data Analytics Capstone**     
+
 
 
 
