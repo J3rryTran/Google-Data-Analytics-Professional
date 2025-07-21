@@ -28,8 +28,9 @@ Skill: The importance of organizing your data through sorting and filtering, con
 Understand the steps and present visualizations to stakeholders to understand the data. Learn about accessibility, design thinking, and other factors that will help you use data visualizations to effectively communicate data insights.    
 Skill: Visualize, understand, and make decisions with data; essential to data storytelling; And anticipate and address potential questions and to articulate the limitations of your data, ensuring a robust and credible narrative for your stakeholders.      
 
-- [] **7. Data Analysis with R programming**       
-
+- [x] **7. Data Analysis with R programming**       
+Understanding the essential of R, and implement analysis to RStudio.   
+Skill: Working with data in R, visualizations, aesthetics, and annotations.   
 
 - [] **8. Google Data Analytics Capstone: Complete a Case Study**      
 
