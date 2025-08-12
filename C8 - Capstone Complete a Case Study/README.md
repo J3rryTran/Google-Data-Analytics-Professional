@@ -82,4 +82,4 @@ The guide recommends using **Interview Warmup**, a tool designed to help you pra
 - **I**nputs: Then, **iterate** on your initial prompt to attain those improvements.   
 
 
-![Alt text]()
+![Alt text](https://github.com/J3rryTran/Google-Data-Analytics-Professional/blob/main/C8%20-%20Capstone%20Complete%20a%20Case%20Study/C8.png)

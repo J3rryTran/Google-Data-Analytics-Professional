@@ -1,9 +1,11 @@
-# Google Data Analytics Professional   
+# DATA SCIENCE ROADMAP TECHNIQUE AND SOFT SKILL 
+
+## Google Data Analytics Professional   
 
 This course will be combine include all content of relating on Data Analytics by Google.    
 
 
-## Content
+### Content
 - [x] **1. Foundations**  
 Learning a roles and responsibilities of data analyst, Spreadsheet basics, Database, Data visualization basics.  
 Skill: Thinking analytically, Applying a data analyst tool.  
@@ -36,63 +38,114 @@ Skill: Working with data in R, visualizations, aesthetics, and annotations.
 Complete case study, which will help prepare you for your data analytics job hunt like assess analytical skills, choose an analytics-based scenario, and materials to build a portfolio online.   
 
 
-# Google Data Analysis on Google Cloud
-## Content
+## Google Data Analysis on Google Cloud
+### Content
 
-- [] **9. Introduction to CLoud Computing**   
-
-
-- [] **10. Data Analysis in the Cloud**    
+- [] **9. Introduction to Data Analytics in Google Cloud**   
 
 
-- [] **11. The Data Lifecycle**    
+- [] **10. Data Management and Storage in the Cloud**    
 
 
-- [] **12. The role of a cloud data analyst**    
+- [] **11. Data Transformation in the Cloud**    
 
 
-- [] 
+- [] **12. The Power of Storytelling: How to Visualize Data in the Cloud**    
 
 
-# Advance Google Data Analytics Professional   
-## Content  
-
-- [x] **13. Introduction to data science concepts**      
+- [] **13. Put It All Together: Prepare for a Cloud Data Analyst Job**
 
 
-- [] **14. Get Started with Python**       
+## Advance Google Data Analytics Professional   
+### Content  
+
+- [x] **14. Introduction to data science concepts**      
 
 
-- [] **15. Go Beyond the Numbers: Translate Data into Insights**         
+- [] **15. Get Started with Python**       
 
 
-- [] **16. The Power of Statistics**     
+- [] **16. Go Beyond the Numbers: Translate Data into Insights**         
 
 
-
-- [] **17. Regression Analysis: Simplify Complex Data Relationships**    
+- [] **17. The Power of Statistics**     
 
 
 
-- [] **18. The Nuts and Bolts of Machine Learning**     
-
-
-- [] **19. Google Advanced Data Analytics Capstone**     
+- [] **18. Regression Analysis: Simplify Complex Data Relationships**    
 
 
 
+- [] **19. The Nuts and Bolts of Machine Learning**     
 
 
-## Summarise  
+- [] **20. Google Advanced Data Analytics Capstone**     
 
-### The six data analysis phases  
-1. Ask: Business challenge, objective, or question --> Questions and define the problem.   
-2. Prepare: Data generation, collection, storage, and data management --> Data by collecting and storing the information.  
-3. Process: Data cleaning and data integrity --> Data by cleaning and checking the information.
-4. Analyze: Data exploration, visualization, and analysis --> Data to find patterns, relationships, and trends. 
-5. Share: Communicating and interpreting results --> Data with your audience.   
-6. Act: Putting  insights to work to solve the problem --> The data and use the analysis results.   
 
+<!-- ## Google Machine Learning Engineer
+
+- [] **21. Professional Machine Learning Engineer Study Guide**
+
+
+- [] **22. A Tour of Google Cloud Hands-on Labs**
+
+
+- [] **23. Introduction to AI and Machine Learning on Google Cloud**
+
+
+- [] **24. Prepare Data for ML APIs on Google Cloud** 
+
+
+- [] **25. Working with Notebooks in Vertex AI**
+
+
+- [] **26. Create ML Models with BigQuery ML**
+
+
+- [] **27. Engineer Data for Predictive Modeling with BigQuery ML**
+
+
+- [] **28. Feature Engineering**
+
+
+- [] **29. Build, Train and Deploy ML Models with Keras on Google Cloud**
+
+
+- [] **30. Production Machine Learning Systems**
+
+
+- [] **31. Machine Learning Operations (MLOps): Getting Started**
+
+
+- [] **32. Machine Learning Operations (MLOps) with Vertex AI: Manage Features**
+
+
+- [] **33. Introduction to Generative AI**
+
+
+- [] **34. Introduction to Large Language Models**
+
+
+- [] **35. Machine Learning Operations (MLOps) for Generative AI**
+
+
+- [] **36. Machine Learning Operations (MLOps) with Vertex AI: Model Evaluation**
+
+
+- [] **37. Build and Deploy Machine Learning Solutions on Vertex AI**
+
+
+- [] **38. Create Generative AI Apps on Google Cloud**
+
+
+- [] **39. Responsible AI for Developers: Fairness & Bias**
+
+
+- [] **40. Responsible AI for Developers: Interpretability & Transparency**
+
+
+- [] **41. Responsible AI for Developers: Privacy & Safety**
+ -->
 
 
 # The Certificate  

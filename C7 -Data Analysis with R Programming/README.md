@@ -13,4 +13,4 @@ R is a tool well-suited for creating detailed visualizations. In this part of th
 When you’re ready to save and present your analysis, R has different options to consider. In this part of the course, you’ll explore R Markdown, a file format for making dynamic documents with R. You’ll find out how to format and export R Markdown, including how to incorporate R code chunks in your documents.  
 
 
-![Alt text]()
+![Alt text](https://github.com/J3rryTran/Google-Data-Analytics-Professional/blob/main/C7%20-Data%20Analysis%20with%20R%20Programming/C7.png)
